@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tutorial5</string>
+    <string name="msg1">Enter your ID</string>
+    <string name="msg2">Enter your Name</string>
+    <string name="msg3">Enter your Address</string>
+    <string name="msg4">Enter your Phone Number</string>
+    <string name="btnSave">SAVE</string>
+    <string name="btnShow">SHOW</string>
+    <string name="btnUpdate">UPDATE</string>
+    <string name="btnDelete">DELETE</string>
+</resources>
